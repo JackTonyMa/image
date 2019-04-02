@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="image" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="当前同步刷新ui,会等程序全部执行完毕,才渲染">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/image.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/commons-lang3-3.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image.jnlp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-console-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-datetime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-debug-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-errorhandling-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-file-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-file-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-file-l2-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-handle-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-interlocked-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-libraryloader-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-localization-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-memory-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-namedpipe-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-processenvironment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-processthreads-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-processthreads-l1-1-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-profile-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-rtlsupport-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-synch-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-synch-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-sysinfo-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-timezone-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-core-util-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-crt-conio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-crt-convert-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-crt-environment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-crt-filesystem-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-crt-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-crt-locale-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-crt-math-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-crt-multibyte-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-crt-private-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-crt-process-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-crt-runtime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-crt-stdio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-crt-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-crt-time-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/api-ms-win-crt-utility-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/app/commons-lang3-3.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/app/image.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/app/image.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/image.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/image.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/msvcp140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/msvcr100.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/packager.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/COPYRIGHT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/THIRDPARTYLICENSEREADME-JAVAFX.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/THIRDPARTYLICENSEREADME.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/Welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/JAWTAccessBridge-64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/JavaAccessBridge-64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/WindowsAccessBridge-64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-console-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-datetime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-debug-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-errorhandling-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-file-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-file-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-file-l2-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-handle-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-interlocked-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-libraryloader-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-localization-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-memory-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-namedpipe-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-processenvironment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-processthreads-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-processthreads-l1-1-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-profile-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-rtlsupport-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-synch-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-synch-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-sysinfo-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-timezone-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-core-util-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-crt-conio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-crt-convert-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-crt-environment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-crt-filesystem-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-crt-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-crt-locale-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-crt-math-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-crt-multibyte-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-crt-private-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-crt-process-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-crt-runtime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-crt-stdio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-crt-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-crt-time-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/api-ms-win-crt-utility-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/attach.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/awt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/bci.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/concrt140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/dcpr.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/decora_sse.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/deploy.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/dt_shmem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/dt_socket.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/fontmanager.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/fxplugins.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/glass.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/glib-lite.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/gstreamer-lite.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/hprof.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/instrument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/j2pcsc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/j2pkcs11.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/jaas_nt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/java.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/java_crw_demo.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/javafx_font.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/javafx_font_t2k.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/javafx_iio.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/jawt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/jdwp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/jfr.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/jfxmedia.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/jfxwebkit.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/jli.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/jpeg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/jsdt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/jsound.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/jsoundds.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/kcms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/lcms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/management.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/mlib_image.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/msvcp140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/msvcr100.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/net.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/nio.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/npt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/plugin2/msvcr100.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/plugin2/npjp2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/prism_common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/prism_d3d.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/prism_sw.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/resource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/sawindbg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/server/Xusage.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/server/classes.jsa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/server/jvm.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/splashscreen.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/sunec.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/sunmscapi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/t2k.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/ucrtbase.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/unpack.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/vcruntime140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/verify.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/w2k_lsa_auth.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/bin/zip.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/accessibility.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/amd64/jvm.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/calendars.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/charsets.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/classlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/cmm/CIEXYZ.pf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/cmm/GRAY.pf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/cmm/LINEAR_RGB.pf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/cmm/PYCC.pf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/cmm/sRGB.pf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/content-types.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/currency.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/ext/access-bridge-64.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/ext/cldrdata.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/ext/dnsns.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/ext/jaccess.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/ext/jfxrt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/ext/localedata.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/ext/meta-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/ext/nashorn.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/ext/sunec.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/ext/sunjce_provider.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/ext/sunmscapi.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/ext/sunpkcs11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/ext/zipfs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/flavormap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/fontconfig.bfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/fontconfig.properties.src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/fonts/LucidaBrightDemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/fonts/LucidaBrightDemiItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/fonts/LucidaBrightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/fonts/LucidaBrightRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/fonts/LucidaSansDemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/fonts/LucidaSansRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/fonts/LucidaTypewriterBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/fonts/LucidaTypewriterRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/hijrah-config-umalqura.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/images/cursors/cursors.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/images/cursors/invalid32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/images/cursors/win32_CopyDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/images/cursors/win32_CopyNoDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/images/cursors/win32_LinkDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/images/cursors/win32_LinkNoDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/images/cursors/win32_MoveDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/images/cursors/win32_MoveNoDrop32x32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/javafx.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/javaws.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/jce.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/jfr.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/jfr/default.jfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/jfr/profile.jfc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/jfxswt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/jsse.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/jvm.hprof.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/management-agent.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/management/jmxremote.access" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/management/jmxremote.password.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/management/management.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/management/snmp.acl.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/meta-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/net.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/plugin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/psfont.properties.ja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/psfontj2d.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/resources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/security/blacklist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/security/blacklisted.certs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/security/cacerts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/security/java.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/security/java.security" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/security/javaws.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/security/policy/limited/US_export_policy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/security/policy/limited/local_policy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/security/policy/unlimited/US_export_policy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/security/policy/unlimited/local_policy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/security/trusted.libraries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/sound.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/tzdb.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/runtime/lib/tzmappings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/ucrtbase.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/bundles/image/vcruntime140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/commons-lang3-3.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/image.exe.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/image.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/image/image.jnlp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/image/sample/Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/image/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/image/sample/FileUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/image/sample/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/image/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/image/sample/MessagePrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/image/sample/imageUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/image/sample/sample.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/image/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/FileUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/MessagePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/imageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/sample.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/sample.fxml" afterDir="false" />
+    </list>
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/image$Main.ic" NAME="Main Coverage Results" MODIFIED="1553958386987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>sample.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="768">
+              <caret line="48" column="44" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/MessagePrinter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Constant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/sample.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sample/imageUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Server/Java/java8/jdk/javafx-src.zip!/javafx/scene/control/TextArea.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="74" column="40" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/FileUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="984">
+              <caret line="43" column="69" selection-start-line="43" selection-start-column="69" selection-end-line="43" selection-end-column="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/sample/sample.css" />
+        <option value="$PROJECT_DIR$/src/sample/Main.java" />
+        <option value="$PROJECT_DIR$/src/sample/FileUtil.java" />
+        <option value="$PROJECT_DIR$/src/sample/Controller.java" />
+        <option value="$PROJECT_DIR$/src/sample/sample.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/MessagePrinter.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/sample/Constant.java" />
+        <option value="$PROJECT_DIR$/src/sample/imageUtil.java" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="315" />
+    <option name="width" value="1615" />
+    <option name="height" value="1400" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="image" type="b2602c69:ProjectViewProjectNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="image" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="image" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="commons-lang3-3.8.1.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554033721700" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.16068053" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="11" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Controller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.Controller" />
+      <module name="image" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="image" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="imageUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.imageUtil" />
+      <module name="image" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Controller" />
+        <item itemvalue="Application.imageUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1553930541496" duration="8342000" />
+      <workItem from="1553940064790" duration="17890000" />
+      <workItem from="1554002709872" duration="14588000" />
+      <workItem from="1554030273320" duration="1473000" />
+      <workItem from="1554033916683" duration="606000" />
+      <workItem from="1554081193517" duration="599000" />
+      <workItem from="1554167317034" duration="2842000" />
+      <workItem from="1554174111065" duration="610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="48252000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.16845638" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286432" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Problems" order="9" />
+      <window_info anchor="bottom" id="Changes" order="10" />
+      <window_info anchor="bottom" id="Profiler" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" />
+      <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Terminal" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JetGradle" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.32984033" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <MESSAGE value="当前同步刷新ui,会等程序全部执行完毕,才渲染" />
+    <option name="LAST_COMMIT_MESSAGE" value="当前同步刷新ui,会等程序全部执行完毕,才渲染" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/imageUtil.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/imageUtil.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/MessagePrinter.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/imageUtil.java</url>
+          <line>121</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>LocalDateTime.now().toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>file.exists()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Server/Java/java8/jdk/javafx-src.zip!/javafx/event/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="193" column="28" lean-forward="true" selection-start-line="193" selection-start-column="28" selection-end-line="193" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Server/Java/java8/jdk/javafx-src.zip!/javafx/event/EventType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="157" selection-start-line="157" selection-end-line="157" />
+          <folding>
+            <element signature="e#4603#4604#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Server/Java/java8/jdk/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1334">
+          <caret line="1768" selection-start-line="1768" selection-end-line="1768" />
+          <folding>
+            <element signature="e#66921#66922#0" expanded="true" />
+            <element signature="e#66966#66967#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Server/Java/java8/jdk/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="1338" column="19" selection-start-line="1338" selection-start-column="19" selection-end-line="1338" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Server/Java/java8/jdk/src.zip!/java/time/LocalTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+          <folding>
+            <element signature="e#7775#7776#0" expanded="true" />
+            <element signature="e#7828#7829#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Server/Java/java8/jdk/javafx-src.zip!/javafx/scene/control/MenuItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="462" selection-start-line="462" selection-end-line="462" />
+          <folding>
+            <element signature="e#15741#15742#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Server/Java/java8/jdk/javafx-src.zip!/javafx/concurrent/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23952">
+          <caret line="1053" column="19" selection-start-line="1053" selection-start-column="19" selection-end-line="1053" selection-end-column="19" />
+          <folding>
+            <element signature="e#44577#44578#0" expanded="true" />
+            <element signature="e#44638#44639#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Server/Java/java8/jdk/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="2177" column="56" selection-start-line="2177" selection-start-column="56" selection-end-line="2177" selection-end-column="56" />
+          <folding>
+            <element signature="e#56437#56438#0" expanded="true" />
+            <element signature="e#56514#56515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Server/Java/java8/jdk/src.zip!/java/util/regex/Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="996" column="4" selection-start-line="996" selection-start-column="4" selection-end-line="996" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Server/Java/java8/jdk/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="4276" column="37" selection-start-line="4276" selection-start-column="37" selection-end-line="4276" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Server/Java/java8/jdk/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="76" column="36" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/浏览器下载/commons-lang3-3.8.1.jar!/org/apache/commons/lang3/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/commons-lang3-3.8.1-sources.jar!/org/apache/commons/lang3/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="230" column="31" selection-start-line="230" selection-start-column="31" selection-end-line="230" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Server/Java/java8/jdk/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1346">
+          <caret line="203" column="30" selection-start-line="203" selection-start-column="19" selection-end-line="203" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Server/Java/java8/jdk/javafx-src.zip!/javafx/beans/binding/IntegerBinding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="155" selection-start-line="155" selection-end-line="155" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Server/Java/java8/jdk/javafx-src.zip!/javafx/beans/property/IntegerPropertyBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Server/Java/java8/jdk/javafx-src.zip!/javafx/scene/control/TextInputControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="78" column="49" lean-forward="true" selection-start-line="78" selection-start-column="49" selection-end-line="78" selection-end-column="49" />
+          <folding>
+            <element signature="e#17168#17169#0" expanded="true" />
+            <element signature="e#17213#17214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Server/Java/java8/jdk/javafx-src.zip!/javafx/scene/control/Control.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="88" column="5" lean-forward="true" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Server/Java/java8/jdk/src.zip!/java/awt/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="74" column="24" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Server/Java/java8/jdk/src.zip!/java/awt/image/BufferedImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="1087" column="5" lean-forward="true" selection-start-line="1087" selection-start-column="5" selection-end-line="1087" selection-end-column="5" />
+          <folding>
+            <element signature="e#44009#44010#0" expanded="true" />
+            <element signature="e#44049#44050#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="48" column="44" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/MessagePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Server/Java/java8/jdk/javafx-src.zip!/javafx/scene/control/TextArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="74" column="40" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="984">
+          <caret line="43" column="69" selection-start-line="43" selection-start-column="69" selection-end-line="43" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/imageUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>image</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jquery-3.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>image</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

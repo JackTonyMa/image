@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="image">
+    <output-path>$PROJECT_DIR$/out/artifacts/image</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.Main" />
+        <option name="description" value="" />
+        <option name="height" value="600" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="image" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+        <option name="width" value="700" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="image.jar">
+        <element id="module-output" name="image" />
+      </element>
+      <element id="file-copy" path="D:/浏览器下载/commons-lang3-3.8.1.jar" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="image.jnlp">
+  <information>
+    <title>image</title>
+    <vendor>Unknown</vendor>
+    <description>image</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="commons-lang3-3.8.1.jar" size="501879" download="eager" />
+    <jar href="image.jar" size="11055" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="700" height="600" main-class="sample.Main"  name="image" />
+  <update check="background"/>
+</jnlp>
