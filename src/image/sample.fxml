@@ -1,7 +1,7 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<Pane fx:id="pane" fx:controller="sample.Controller" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity"
+<Pane fx:id="pane" fx:controller="image.controller.Controller" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity"
       minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.201"
       xmlns:fx="http://javafx.com/fxml/1">
 
@@ -15,11 +15,11 @@
                     </items>
                 </Menu>
 
-                <!--<Menu mnemonicParsing="false" text="文件">-->
-                    <!--<items>-->
-                        <!--<MenuItem fx:id="claer" mnemonicParsing="false" text="清除…" onAction="#clear"/>-->
-                    <!--</items>-->
-                <!--</Menu>-->
+                <Menu mnemonicParsing="false" text="编辑">
+                    <items>
+                        <MenuItem fx:id="claer" mnemonicParsing="false" text="清屏…" onAction="#clear"/>
+                    </items>
+                </Menu>
 
             </menus>
         </MenuBar>
