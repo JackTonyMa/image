@@ -2,6 +2,9 @@ package sample;
 
 import javafx.scene.control.TextArea;
 
+/**
+ * @author 66417
+ */
 public class MessagePrinter implements Runnable {
 
     private TextArea textArea;
@@ -27,6 +30,5 @@ public class MessagePrinter implements Runnable {
     @Override
     public void run() {
         textArea.appendText(message);
-//        System.out.println("test");/
     }
 }

@@ -2,6 +2,7 @@ package sample;
 
 import com.sun.image.codec.jpeg.JPEGCodec;
 import com.sun.image.codec.jpeg.JPEGImageEncoder;
+import image.constants.Constant;
 import javafx.scene.control.TextArea;
 
 import javax.imageio.ImageIO;
@@ -10,13 +11,20 @@ import javax.imageio.ImageReader;
 import javax.imageio.stream.ImageInputStream;
 import java.awt.*;
 import java.awt.image.BufferedImage;
-import java.io.*;
+import java.io.BufferedInputStream;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
 import java.util.Iterator;
 
-import static sample.Controller.originalPath;
-import static sample.Controller.targetPath;
-import static sample.FileUtil.creatFolder;
-import static sample.FileUtil.getFileSuffix;
+import static image.controller.Controller.originalPath;
+import static image.controller.Controller.targetPath;
+import static image.utils.FileUtil.creatFolder;
+import static image.utils.FileUtil.getFileSuffix;
+
 
 public class imageUtil {
 
@@ -81,13 +89,11 @@ public class imageUtil {
      * @param targetPath
      */
     public static void handleImages(File file, TextArea textArea, String targetPath) {
-//        printMessage(textArea, "开始处理图片:" + file.getPath() + file.getName() + "~~~~~\n");
         textArea.appendText("开始处理图片:" + file.getPath() + file.getName() + "~~~~~\n");
         int[] sizeInfo = null;
         try {
             sizeInfo = getSizeInfo(file);
         } catch (Exception e) {
-//            printMessage(textArea, "获取图片尺寸信息失败!\n");
             textArea.appendText("获取图片尺寸信息失败!\n");
             return;
         }
@@ -99,13 +105,11 @@ public class imageUtil {
             try {
                 reSizeImage(file, targetPath, 800, 800);
                 textArea.appendText("处理完毕!\n");
-//                printMessage(textArea, "处理完毕!\n");
             } catch (IOException e) {
                 e.printStackTrace();
             }
             //非正方形,需要先裁剪成正方形,再调整大小
         } else {
-//            printMessage(textArea, "需要裁剪!\n");
             textArea.appendText("需要裁剪!\n");
 
 
@@ -118,7 +122,6 @@ public class imageUtil {
             try {
                 File tempFile=new File(targetPath);
                 reSizeImage(tempFile, targetPath, 800, 800);
-//                printMessage(textArea, "裁剪完毕!\n");
                 textArea.appendText("裁剪完毕!\n");
             } catch (IOException e) {
                 e.printStackTrace();

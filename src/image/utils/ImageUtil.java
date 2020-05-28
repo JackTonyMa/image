@@ -12,7 +12,10 @@ import java.awt.image.BufferedImage;
 import java.io.*;
 import java.util.Iterator;
 
-public class imageUtil {
+/**
+ * @author 66417
+ */
+public class ImageUtil {
 
 
     /**
@@ -22,26 +25,19 @@ public class imageUtil {
      * @param toImagePath 写入图片路径
      * @param width       重新设置图片的宽
      * @param height      重新设置图片的高
-     * @throws IOException
      */
-    public static void reSizeImage(File image, String toImagePath, int width, int height) throws IOException {
-        FileOutputStream out = null;
-        try {
+    public static void reSizeImage(File image, String toImagePath, int width, int height) {
+        try (FileOutputStream out = new FileOutputStream(toImagePath)){
             // 构造Image对象
             BufferedImage src = javax.imageio.ImageIO.read(image);
             // 缩小边长
             BufferedImage tag = new BufferedImage(width, height, BufferedImage.TYPE_INT_RGB);
             // 绘制 缩小  后的图片
             tag.getGraphics().drawImage(src, 0, 0, width, height, null);
-            out = new FileOutputStream(toImagePath);
             JPEGImageEncoder encoder = JPEGCodec.createJPEGEncoder(out);
             encoder.encode(tag);
         } catch (Exception e) {
             e.printStackTrace();
-        } finally {
-            if (out != null) {
-                out.close();
-            }
         }
     }
 
@@ -59,15 +55,14 @@ public class imageUtil {
      * @param writeImageFormat 写入图片格式
      */
     public static void cropImage(String srcPath, String toPath, int x, int y, int width, int height, String readImageFormat, String writeImageFormat) {
-        FileInputStream fis = null;
-        ImageInputStream iis = null;
-        try {
-            //读取图片文件
-            fis = new FileInputStream(srcPath);
+        try (FileInputStream fis = new FileInputStream(srcPath);
+             ImageInputStream iis = ImageIO.createImageInputStream(fis)
+
+        ) {
+            //读取图片文件`
             Iterator<ImageReader> readers = ImageIO.getImageReadersByFormatName(readImageFormat);
             ImageReader reader = readers.next();
             //获取图片流
-            iis = ImageIO.createImageInputStream(fis);
             reader.setInput(iis, true);
             ImageReadParam param = reader.getDefaultReadParam();
             //定义一个矩形
@@ -79,17 +74,6 @@ public class imageUtil {
             ImageIO.write(bi, writeImageFormat, new File(toPath));
         } catch (Exception e) {
             e.printStackTrace();
-        } finally {
-            try {
-                if (fis != null) {
-                    fis.close();
-                }
-                if (iis != null) {
-                    iis.close();
-                }
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
         }
     }
 
@@ -103,23 +87,17 @@ public class imageUtil {
         if (!file.exists()) {
             throw new Exception("file " + file.getAbsolutePath() + " doesn't exist.");
         }
-        BufferedInputStream input = null;
-        try {
-            input = new BufferedInputStream(new FileInputStream(file));
-
+        try (
+                BufferedInputStream input = new BufferedInputStream(new FileInputStream(file))
+        ) {
             BufferedImage img = ImageIO.read(input);
             int w = img.getWidth(null);
             int h = img.getHeight(null);
             return new int[]{w, h};
 
-        } catch (FileNotFoundException e) {
+        } catch (Exception e) {
             e.printStackTrace();
             throw new Exception(e);
-        } catch (IOException e) {
-            throw new Exception(e);
-
-        } finally {
-            input.close();
         }
 
     }
